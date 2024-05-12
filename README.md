@@ -1,0 +1,55 @@
+A quick script to aggregate country data from https://worldpopulationreview.com/ by regions and subregions.
+
+Sources for files:
+* [Reddit users](https://worldpopulationreview.com/country-rankings/reddit-users-by-country)
+* [countries.json](https://github.com/mledoze/countries)
+
+Output:
+```python
+{'Asia': {'users (mil.)': 1018.8,
+          'share (%)': 16.4,
+          'subregions': {'Southern Asia': {'users (mil.)': 332.7,
+                                           'share (%)': 5.35},
+                         'South-Eastern Asia': {'users (mil.)': 294.4,
+                                                'share (%)': 4.74},
+                         'Eastern Asia': {'users (mil.)': 204.1,
+                                          'share (%)': 3.28},
+                         'Western Asia': {'users (mil.)': 187.6,
+                                          'share (%)': 3.02}}},
+ 'Americas': {'users (mil.)': 2969.7,
+              'share (%)': 47.79,
+              'subregions': {'North America': {'users (mil.)': 2686.8,
+                                               'share (%)': 43.24},
+                             'South America': {'users (mil.)': 276.4,
+                                               'share (%)': 4.45},
+                             'Central America': {'users (mil.)': 6.5,
+                                                 'share (%)': 0.1}}},
+ 'Africa': {'users (mil.)': 94.5,
+            'share (%)': 1.52,
+            'subregions': {'Western Africa': {'users (mil.)': 22.7,
+                                              'share (%)': 0.37},
+                           'Northern Africa': {'users (mil.)': 40.0,
+                                               'share (%)': 0.64},
+                           'Southern Africa': {'users (mil.)': 18.4,
+                                               'share (%)': 0.3},
+                           'Eastern Africa': {'users (mil.)': 13.4,
+                                              'share (%)': 0.22}}},
+ 'Europe': {'users (mil.)': 1911.2,
+            'share (%)': 30.76,
+            'subregions': {'Eastern Europe': {'users (mil.)': 97.9,
+                                              'share (%)': 1.58},
+                           'Western Europe': {'users (mil.)': 611.5,
+                                              'share (%)': 9.84},
+                           'Northern Europe': {'users (mil.)': 655.8,
+                                               'share (%)': 10.55},
+                           'Southern Europe': {'users (mil.)': 270.1,
+                                               'share (%)': 4.35},
+                           'Central Europe': {'users (mil.)': 198.6,
+                                              'share (%)': 3.2},
+                           'Southeast Europe': {'users (mil.)': 77.3,
+                                                'share (%)': 1.24}}},
+ 'Oceania': {'users (mil.)': 219.7,
+             'share (%)': 3.54,
+             'subregions': {'Australia and New Zealand': {'users (mil.)': 219.7,
+                                                          'share (%)': 3.54}}}}
+```
