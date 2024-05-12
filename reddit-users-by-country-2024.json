@@ -1,0 +1,382 @@
+[
+  {
+    "country": "India",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 280.2,
+    "RedditUsersPercofGlobalTrafficShare": 5.18
+  },
+  {
+    "country": "United States",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 2320,
+    "RedditUsersPercofGlobalTrafficShare": 42.95
+  },
+  {
+    "country": "Indonesia",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 94.3,
+    "RedditUsersPercofGlobalTrafficShare": 1.74
+  },
+  {
+    "country": "Pakistan",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 25.4,
+    "RedditUsersPercofGlobalTrafficShare": 0.47
+  },
+  {
+    "country": "Nigeria",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 14,
+    "RedditUsersPercofGlobalTrafficShare": 0.26
+  },
+  {
+    "country": "Brazil",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 141.7,
+    "RedditUsersPercofGlobalTrafficShare": 2.62
+  },
+  {
+    "country": "Bangladesh",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 11.4,
+    "RedditUsersPercofGlobalTrafficShare": 0.21
+  },
+  {
+    "country": "Russia",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 97.9,
+    "RedditUsersPercofGlobalTrafficShare": 1.81
+  },
+  {
+    "country": "Mexico",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 95.8,
+    "RedditUsersPercofGlobalTrafficShare": 1.77
+  },
+  {
+    "country": "Japan",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 96.9,
+    "RedditUsersPercofGlobalTrafficShare": 1.79
+  },
+  {
+    "country": "Philippines",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 76.3,
+    "RedditUsersPercofGlobalTrafficShare": 1.41
+  },
+  {
+    "country": "Egypt",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 19.5,
+    "RedditUsersPercofGlobalTrafficShare": 0.36
+  },
+  {
+    "country": "Vietnam",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 21.6,
+    "RedditUsersPercofGlobalTrafficShare": 0.4
+  },
+  {
+    "country": "Turkey",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 84.4,
+    "RedditUsersPercofGlobalTrafficShare": 1.56
+  },
+  {
+    "country": "Germany",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 188.9,
+    "RedditUsersPercofGlobalTrafficShare": 3.49
+  },
+  {
+    "country": "Thailand",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 26.5,
+    "RedditUsersPercofGlobalTrafficShare": 0.49
+  },
+  {
+    "country": "United Kingdom",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 295.5,
+    "RedditUsersPercofGlobalTrafficShare": 5.46
+  },
+  {
+    "country": "France",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 160.7,
+    "RedditUsersPercofGlobalTrafficShare": 2.97
+  },
+  {
+    "country": "South Africa",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 18.4,
+    "RedditUsersPercofGlobalTrafficShare": 0.34
+  },
+  {
+    "country": "Italy",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 101.8,
+    "RedditUsersPercofGlobalTrafficShare": 1.88
+  },
+  {
+    "country": "Kenya",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 12.4,
+    "RedditUsersPercofGlobalTrafficShare": 0.23
+  },
+  {
+    "country": "Colombia",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 21.1,
+    "RedditUsersPercofGlobalTrafficShare": 0.39
+  },
+  {
+    "country": "South Korea",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 60.1,
+    "RedditUsersPercofGlobalTrafficShare": 1.11
+  },
+  {
+    "country": "Spain",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 107.7,
+    "RedditUsersPercofGlobalTrafficShare": 1.99
+  },
+  {
+    "country": "Iraq",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 9.7,
+    "RedditUsersPercofGlobalTrafficShare": 0.18
+  },
+  {
+    "country": "Argentina",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 55.7,
+    "RedditUsersPercofGlobalTrafficShare": 1.03
+  },
+  {
+    "country": "Poland",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 99,
+    "RedditUsersPercofGlobalTrafficShare": 1.83
+  },
+  {
+    "country": "Canada",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 271,
+    "RedditUsersPercofGlobalTrafficShare": 5.01
+  },
+  {
+    "country": "Morocco",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 15.1,
+    "RedditUsersPercofGlobalTrafficShare": 0.28
+  },
+  {
+    "country": "Saudi Arabia",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 22.2,
+    "RedditUsersPercofGlobalTrafficShare": 0.41
+  },
+  {
+    "country": "Ghana",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 8.7,
+    "RedditUsersPercofGlobalTrafficShare": 0.16
+  },
+  {
+    "country": "Peru",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 17.8,
+    "RedditUsersPercofGlobalTrafficShare": 0.33
+  },
+  {
+    "country": "Malaysia",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 40,
+    "RedditUsersPercofGlobalTrafficShare": 0.74
+  },
+  {
+    "country": "Nepal",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 7.6,
+    "RedditUsersPercofGlobalTrafficShare": 0.14
+  },
+  {
+    "country": "Australia",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 191.6,
+    "RedditUsersPercofGlobalTrafficShare": 3.54
+  },
+  {
+    "country": "Taiwan",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 23.3,
+    "RedditUsersPercofGlobalTrafficShare": 0.43
+  },
+  {
+    "country": "Sri Lanka",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 8.1,
+    "RedditUsersPercofGlobalTrafficShare": 0.15
+  },
+  {
+    "country": "Chile",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 20.6,
+    "RedditUsersPercofGlobalTrafficShare": 0.38
+  },
+  {
+    "country": "Romania",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 27,
+    "RedditUsersPercofGlobalTrafficShare": 0.5
+  },
+  {
+    "country": "Ecuador",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 10.3,
+    "RedditUsersPercofGlobalTrafficShare": 0.19
+  },
+  {
+    "country": "Netherlands",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 138,
+    "RedditUsersPercofGlobalTrafficShare": 2.55
+  },
+  {
+    "country": "Zimbabwe",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 1,
+    "RedditUsersPercofGlobalTrafficShare": 0.01
+  },
+  {
+    "country": "Tunisia",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 5.4,
+    "RedditUsersPercofGlobalTrafficShare": 0.1
+  },
+  {
+    "country": "Belgium",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 72,
+    "RedditUsersPercofGlobalTrafficShare": 1.33
+  },
+  {
+    "country": "Jordan",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 5.9,
+    "RedditUsersPercofGlobalTrafficShare": 0.11
+  },
+  {
+    "country": "Sweden",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 111,
+    "RedditUsersPercofGlobalTrafficShare": 2.05
+  },
+  {
+    "country": "Czech Republic",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 24.9,
+    "RedditUsersPercofGlobalTrafficShare": 0.46
+  },
+  {
+    "country": "Greece",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 26,
+    "RedditUsersPercofGlobalTrafficShare": 0.48
+  },
+  {
+    "country": "Portugal",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 27.6,
+    "RedditUsersPercofGlobalTrafficShare": 0.51
+  },
+  {
+    "country": "Hungary",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 20,
+    "RedditUsersPercofGlobalTrafficShare": 0.37
+  },
+  {
+    "country": "United Arab Emirates",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 18.9,
+    "RedditUsersPercofGlobalTrafficShare": 0.35
+  },
+  {
+    "country": "Israel",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 22.7,
+    "RedditUsersPercofGlobalTrafficShare": 0.42
+  },
+  {
+    "country": "Austria",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 24.4,
+    "RedditUsersPercofGlobalTrafficShare": 0.45
+  },
+  {
+    "country": "Switzerland",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 51.9,
+    "RedditUsersPercofGlobalTrafficShare": 0.96
+  },
+  {
+    "country": "Hong Kong",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 23.8,
+    "RedditUsersPercofGlobalTrafficShare": 0.44
+  },
+  {
+    "country": "Serbia",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 16.2,
+    "RedditUsersPercofGlobalTrafficShare": 0.3
+  },
+  {
+    "country": "Bulgaria",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 16.8,
+    "RedditUsersPercofGlobalTrafficShare": 0.31
+  },
+  {
+    "country": "Singapore",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 35.7,
+    "RedditUsersPercofGlobalTrafficShare": 0.66
+  },
+  {
+    "country": "Denmark",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 63.8,
+    "RedditUsersPercofGlobalTrafficShare": 1.18
+  },
+  {
+    "country": "Slovakia",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 15.7,
+    "RedditUsersPercofGlobalTrafficShare": 0.29
+  },
+  {
+    "country": "Finland",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 47.6,
+    "RedditUsersPercofGlobalTrafficShare": 0.88
+  },
+  {
+    "country": "Norway",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 67.6,
+    "RedditUsersPercofGlobalTrafficShare": 1.25
+  },
+  {
+    "country": "New Zealand",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 28.1,
+    "RedditUsersPercofGlobalTrafficShare": 0.52
+  },
+  {
+    "country": "Costa Rica",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 6.5,
+    "RedditUsersPercofGlobalTrafficShare": 0.12
+  },
+  {
+    "country": "Lebanon",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 10.8,
+    "RedditUsersPercofGlobalTrafficShare": 0.2
+  },
+  {
+    "country": "Ireland",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 31.9,
+    "RedditUsersPercofGlobalTrafficShare": 0.59
+  },
+  {
+    "country": "Oman",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 3.8,
+    "RedditUsersPercofGlobalTrafficShare": 0.07
+  },
+  {
+    "country": "Kuwait",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 4.3,
+    "RedditUsersPercofGlobalTrafficShare": 0.08
+  },
+  {
+    "country": "Croatia",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 17.3,
+    "RedditUsersPercofGlobalTrafficShare": 0.32
+  },
+  {
+    "country": "Uruguay",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 9.2,
+    "RedditUsersPercofGlobalTrafficShare": 0.17
+  },
+  {
+    "country": "Qatar",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 4.9,
+    "RedditUsersPercofGlobalTrafficShare": 0.09
+  },
+  {
+    "country": "Lithuania",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 13.5,
+    "RedditUsersPercofGlobalTrafficShare": 0.25
+  },
+  {
+    "country": "Slovenia",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 14.6,
+    "RedditUsersPercofGlobalTrafficShare": 0.27
+  },
+  {
+    "country": "Latvia",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 13,
+    "RedditUsersPercofGlobalTrafficShare": 0.24
+  },
+  {
+    "country": "Estonia",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 11.9,
+    "RedditUsersPercofGlobalTrafficShare": 0.22
+  },
+  {
+    "country": "Cyprus",
+    "RedditUsersTotalVisitsAllDevicesInMillions": 7,
+    "RedditUsersPercofGlobalTrafficShare": 0.13
+  }
+]
